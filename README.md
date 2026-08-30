@@ -1,27 +1,28 @@
-# Reza Karimzadeh
+﻿# Reza Karimzadeh
 
 Software engineer · developer tools & reliability infrastructure · remote
 
-I build small, production-minded systems: scoring and repairing Git repos, making unsafe retries and duplicate side effects harder to ship by accident, and security-conscious web apps. Independent. Open to remote roles.
+I build production-minded systems: open-source readiness tooling, safe API retry infrastructure, and **NEXUS** — a universal intelligence engine over official public data.
 
 ## Featured work
+
+**[NEXUS](https://github.com/Rezakarimzadeh98/nexus)** · v0.2.0 · Python  
+Universal Intelligence Engine. Live ingest from USGS, NASA EONET, arXiv, NIST NVD, WHO — living observations with provenance, heading toward signals and scored forecasts.
 
 **[repoaudit](https://github.com/Rezakarimzadeh98/repoaudit)** · TypeScript CLI  
 Score any Git repo for open-source readiness, then close the gaps with one command.
 
-**[RetryShield](https://github.com/Rezakarimzadeh98/retryshield)** · C# / PostgreSQL + pattern kit  
-Home for safe operations: learn the double-charge failure, steal copy-paste patterns, or run a self-hosted idempotency gateway with claim / replay / indeterminate ops.
+**[RetryShield](https://github.com/Rezakarimzadeh98/retryshield)** · C# / PostgreSQL  
+Home for safe operations: learn + pattern kit + self-hosted idempotency gateway.
 
-**[secure-password-manager](https://github.com/Rezakarimzadeh98/secure-password-manager)** · Next.js / TypeScript  
-Password generator aligned with NIST SP 800-63B, using the Web Crypto API.
+**[secure-password-manager](https://github.com/Rezakarimzadeh98/secure-password-manager)** · Next.js  
+Password generator aligned with NIST SP 800-63B (Web Crypto API).
 
 ## Now
 
-- Maintaining **repoaudit** and **RetryShield** (kit + gateway)
-- Upstream contributions in progress:
-  - Next.js: https://github.com/vercel/next.js/pull/97740 · https://github.com/vercel/next.js/pull/97462
-  - react.dev: https://github.com/reactjs/react.dev/pull/8606
-  - React: https://github.com/facebook/react/pull/37256
+- Shipping **NEXUS** phase roadmap (official live sources online)
+- Maintaining repoaudit and RetryShield
+- Upstream contributions in progress (Next.js / react.dev / React)
 
 ## Contact
 
