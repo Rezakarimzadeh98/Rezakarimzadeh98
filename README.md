@@ -2,23 +2,26 @@
 
 Software engineer · developer tools & reliability infrastructure · remote
 
-I build small, production-minded systems: scoring and repairing Git repos, making API retries safe, and shipping security-conscious web apps. Independent. Open to remote roles.
+I build small, production-minded systems: scoring and repairing Git repos, making unsafe retries and duplicate side effects harder to ship by accident, and security-conscious web apps. Independent. Open to remote roles.
 
 ## Featured work
 
-**[repoaudit](https://github.com/Rezakarimzadeh98/repoaudit)** — TypeScript CLI  
+**[repoaudit](https://github.com/Rezakarimzadeh98/repoaudit)** · TypeScript CLI  
 Score any Git repo for open-source readiness, then close the gaps with one command.
 
-**[RetryShield](https://github.com/Rezakarimzadeh98/retryshield)** — C# / PostgreSQL  
-Self-hosted idempotency gateway. Prevents duplicate payments and orders when clients time out. Idempotency-Key, ops dashboard, Compose/GHCR.
+**[RetryShield](https://github.com/Rezakarimzadeh98/retryshield)** · C# / PostgreSQL + pattern kit  
+Home for safe operations: learn the double-charge failure, steal copy-paste patterns, or run a self-hosted idempotency gateway with claim / replay / indeterminate ops.
 
-**[secure-password-manager](https://github.com/Rezakarimzadeh98/secure-password-manager)** — Next.js / TypeScript  
+**[secure-password-manager](https://github.com/Rezakarimzadeh98/secure-password-manager)** · Next.js / TypeScript  
 Password generator aligned with NIST SP 800-63B, using the Web Crypto API.
 
 ## Now
 
-- Maintaining **repoaudit** and **RetryShield**
-- Contributing upstream (docs landed on [Next.js](https://github.com/vercel/next.js))
+- Maintaining **repoaudit** and **RetryShield** (kit + gateway)
+- Upstream contributions in progress:
+  - Next.js: https://github.com/vercel/next.js/pull/97740 · https://github.com/vercel/next.js/pull/97462
+  - react.dev: https://github.com/reactjs/react.dev/pull/8606
+  - React: https://github.com/facebook/react/pull/37256
 
 ## Contact
 
